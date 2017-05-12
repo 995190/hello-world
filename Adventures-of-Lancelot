@@ -1,0 +1,23 @@
+import UIKit
+
+var output = "Hello there!"
+print(output, terminator: " ")
+print(output)
+
+let str1 = "Sir"
+let str2 = "Lancelot"
+let hero = str1 + " " + str2
+print(hero)
+
+var level = 1
+level += 1
+let text = "Lancelot reached level"
+print(text, terminator: " ")
+print(level, terminator: "!")
+
+let name = "Sir Lancelot"
+let rank = 2
+let req1 = name == "Sir Lancelot"
+let req2 = level >= 2
+let passage = req1 && req2
+print(passage)
