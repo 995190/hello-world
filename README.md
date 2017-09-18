@@ -1,8 +1,23 @@
+![](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)
+![](https://img.shields.io/badge/code_climate-4.0-brightgreen.svg)
+![](https://img.shields.io/badge/codacy-A-green.svg)
+![](https://img.shields.io/badge/dependencies-up_to_date-brightgreen.svg)
+![](https://img.shields.io/badge/vulnerabilities-0-green.svg)
+![](https://img.shields.io/badge/downloads-192k/day-blue.svg)
+
 # hello-world
 
 Hi, Troglodytes!
 
 Kakos aner makrobios.
+
+## System requirements
+
+This software should work on every computer with at least 640kB of RAM.
+If it doesn't work on your system, please post an issue on:
+
+* https://github.com/995190/hello-world/issues
 
 ## Author
 
@@ -29,3 +44,4 @@ SUN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 YOU ACKNOWLEDGE THAT THIS SOFTWARE IS NOT DESIGNED OR INTENDED FOR USE
 IN THE DESIGN, CONSTRUCTION, OPERATION OR MAINTENANCE OF ANY NUCLEAR
 FACILITY.
+
